@@ -9,6 +9,7 @@ analytical abilities and chances to make a difference in an innovative company's
 - 👯 I’m looking to collaborate on various data analytics projects.
 - 📫 How to reach me: linkedin.com/in/bashir-abubakar-61935417b/
 - ⚡ Fun fact: I enjoy watching space videos.
+- 📝 My certifications: [Microsoft Certified: Azure AI Fundamentals]([https://www.credly.com/badges/3f21bcd3-30aa-48b9-9f83-b0b258754379](https://learn.microsoft.com/api/credentials/share/en-us/BashirAbubakar-9547/7EBFD9D7114B419E?sharingId=3BFAE8270D3ACE88)) 
 <!--
 **bashir-abubakar/bashir-abubakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
