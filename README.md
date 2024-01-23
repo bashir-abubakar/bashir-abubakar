@@ -9,7 +9,7 @@
 
 ---
 - 🔭 I am an analytical minded professional & highly driven individual with a solid educational background and a great interest in data
-analytics and artificial intelligence with proficiency in the use of Power BI, Python, SQL, Tableau & Advanced Excel for an
+analytics and artificial intelligence with proficiency in the use of Microsoft Azure, Power BI, Python, SQL, Tableau & Advanced Excel for an
 insightful presentation of data. I am currently pursuing an MSc in Applied Artificial Intelligence and Data Analytics at the
 University of Bradford, and in my pursuit of professional growth, I am always on the lookout for new challenges to test my
 analytical abilities and chances to make a difference in an innovative company's data-driven decision-making process.
